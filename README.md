@@ -5,7 +5,8 @@
 # Kodluyoruz İlk Repo
 Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo.İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![git hub](resimcik1.png)
+![git hub](resimcik1.png){ width=60%,height:30px }
+
 
 ### Installation
 -----------------------------
