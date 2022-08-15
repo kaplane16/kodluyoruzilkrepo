@@ -34,5 +34,8 @@ Pull requestler kabul edilir. Büyük değişikler için lütfen önce neyi değ
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-
-
+-----------------------
+###Patika link
+```bash
+https://app.patika.dev/kaplane
+```
